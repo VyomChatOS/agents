@@ -11,7 +11,6 @@ import {
   PaginationQueryParamsSchema,
   SubAgentTeamAgentRelationApiInsertSchema,
   type SubAgentTeamAgentRelationApiSelect,
-  SubAgentTeamAgentRelationApiSelectSchema,
   SubAgentTeamAgentRelationApiUpdateSchema,
   SubAgentTeamAgentRelationListResponse,
   SubAgentTeamAgentRelationResponse,
